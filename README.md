@@ -84,7 +84,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 1. Install Ollama for local model support (optional):
    ```bash
    # Visit https://ollama.ai/ for installation instructions
-h   ```
+   ```
 
 ## Usage
 
