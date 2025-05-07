@@ -1,0 +1,22 @@
+{
+  "default": {
+    "online": "openai/gpt-3.5-turbo",
+    "offline": "mistral:latest"
+  },
+  "poetry": {
+    "online": "anthropic/claude-3-haiku",
+    "offline": "llama3:latest"
+  },
+  "code": {
+    "online": "openai/gpt-4-turbo",
+    "offline": "codellama:latest"
+  },
+  "assistant": {
+    "online": "anthropic/claude-3-sonnet",
+    "offline": "mistral:latest"
+  },
+  "research": {
+    "online": "anthropic/claude-3-opus",
+    "offline": "llama3:latest"
+  }
+}
